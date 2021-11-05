@@ -20,7 +20,7 @@ Added Setup `Command`
 | -------------      | ----------------------------------------- |
 | Added `Soundcloud Api`          | Bumps your Server                         |
 | Added `Shard`      | Change your server advertisment channel   |
-| color              | Change your bump embed color              |
+| Added Setup `Command`            | Change your bump embed color              |
 | description        | Change your server description            |
 | goodbye            | Change your server goodbye channel        |
 | help               | Shows you all my Commands                 |
