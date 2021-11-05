@@ -17,7 +17,7 @@ For example ⏬
 | Added `Soundcloud Api`          | 0.1 ✔️                       |
 | Added `Shard`      | 0.11 Alpha ✔️   |
 | Added Setup `Command`            | 0.1.1 ✔️              |
-| Soon        | Soon            |
+| Added `Ksoft Api`       | 0.1.2 ✔️            |
 | Soon            | Soon        |
 | Soon               | Soon                 |
 | Soon             | Soon                     |
