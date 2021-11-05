@@ -11,7 +11,7 @@ For example ⏬
 
 <br />
 
-## Commands
+## UPDATE
 |  Name              |      Version                              |
 | -------------      | ----------------------------------------- |
 | Added `Soundcloud Api`          | 0.1 ✔️                       |
