@@ -23,7 +23,7 @@ For example ⏬
 | Soon             | Soon                     |
 | Soon             | Soon                 |
 | Soon            | Soon              |
-| welcSoonome            | Soon        |
+| Soon            | Soon        |
 
 
 <br />
