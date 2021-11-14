@@ -23,6 +23,14 @@ i Will Release My Code in 10K Server `Maybe`
 - Update The SongOfTheDay
 - Updated Help Command!
 
+## Update 1.1.2
+- Added Filter
+- Tremolo
+- Retrowave
+- 8D
+- Chipmunkk
+- Nightcore
+
 ### You Can Invite Lernox ⬇️
 <a href="https://top.gg/bot/708931649265598534">
   <img src="https://top.gg/api/widget/708931649265598534.svg">
