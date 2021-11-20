@@ -27,3 +27,6 @@ For example ⏬
 
 
 <br />
+
+### How to fix error?
+![123](https://media.discordapp.net/attachments/897830173230129224/911460417635778620/unknown.png?width=415&height=434)
